@@ -1,1 +1,1 @@
-# Simple-Mad-Libs-Game
+# Simple-Mad-Libs-Game-Python
